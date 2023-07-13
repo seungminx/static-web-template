@@ -1,1 +1,1 @@
-# static-web-template
+# verbose-adventure
